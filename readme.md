@@ -1,6 +1,6 @@
 # Ask me anything! 💭
 
-## [Ask a question <span aria-hidden="true">↗️</span>](../../discussions/new) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Read answered questions <span aria-hidden="true">↗️</span>](../../discussions?discussions_q=is%3Aanswered)
+## [Ask a question <span aria-hidden="true">↗️</span>](../../discussions/new?category=ama) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Read answered questions <span aria-hidden="true">↗️</span>](../../discussions?discussions_q=is%3Aanswered)
 
 Instead of receiving and answering questions in private this repo is open to <br>the public, so anyone can ask any question and read any of the answers!
 
